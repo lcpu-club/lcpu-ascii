@@ -1,2 +1,2 @@
 # lcpu-ascii
-ascii art of cpu
+ascii art of lcpu
